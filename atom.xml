@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>段落</title>
+  
+  <subtitle>Be water, My friends.</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="https://larrychen25.github.io/"/>
+  <updated>2020-07-20T11:57:07.387Z</updated>
+  <id>https://larrychen25.github.io/</id>
+  
+  <author>
+    <name>Larry</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>节选 陈家映于2017年6月玉河夜话“人工智能”研讨会准备的发言稿</title>
+    <link href="https://larrychen25.github.io/2020/07/20/2020-7-20/"/>
+    <id>https://larrychen25.github.io/2020/07/20/2020-7-20/</id>
+    <published>2020-07-20T09:05:07.000Z</published>
+    <updated>2020-07-20T11:57:07.387Z</updated>
+    
+    <content type="html"><![CDATA[<a id="more"></a>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;a id=&quot;more&quot;&gt;&lt;/a&gt;
+
+
+
+      
+    
+    </summary>
+    
+    
+      <category term="文摘" scheme="https://Larrychen25.github.io/categories/%E6%96%87%E6%91%98/"/>
+    
+    
+      <category term="人文社科" scheme="https://Larrychen25.github.io/tags/%E4%BA%BA%E6%96%87%E7%A4%BE%E7%A7%91/"/>
+    
+  </entry>
+  
+</feed>
